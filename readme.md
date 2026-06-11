@@ -25,4 +25,4 @@ A modern dashboard interface for managing daily tasks with priority levels, due 
 
 ## Author
 
-Jayant Arora
+Jatin Chhabra
